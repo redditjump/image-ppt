@@ -1,5 +1,5 @@
 ---
-name: image-ppt-workflow
+name: image-ppt
 description: 制作和修改视觉优先的图片版PPT：整页生图、局部改图、稳定页面清单、图片合成PPTX及翻页预览。适用于图片型产品介绍、会销稿及其连续修订，不用于要求原生可编辑文字或图表的演示稿。
 ---
 

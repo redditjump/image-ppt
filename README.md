@@ -1,4 +1,4 @@
-# image-ppt-workflow
+# image-ppt
 
 一套面向视觉优先演示稿的 Codex Skill：**整页生图 → 局部改图 → 页面管理 → 图片合成 PPTX → 离线预览**。
 
@@ -42,10 +42,10 @@
 
 ## 安装与调用
 
-下载本仓库，将包含 `SKILL.md` 的整个文件夹命名为 `image-ppt-workflow`，放进 Codex 的技能目录：默认是用户目录下 `.codex/skills/`；使用自定义 `CODEX_HOME` 时放进其 `skills/` 子目录。重新打开会话后调用：
+下载本仓库，将包含 `SKILL.md` 的整个文件夹命名为 `image-ppt`，放进 Codex 的技能目录：默认是用户目录下 `.codex/skills/`；使用自定义 `CODEX_HOME` 时放进其 `skills/` 子目录。重新打开会话后调用：
 
 ```text
-使用 $image-ppt-workflow 制作一份图片版 PPT。
+使用 $image-ppt 制作一份图片版 PPT。
 主题：……
 受众与用途：……
 页数：……

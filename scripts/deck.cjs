@@ -116,7 +116,7 @@ function init(root,title) {
   for(const d of ['assets','references','prompts','renders','scripts','output','revisions']) fs.mkdirSync(path.join(root,d));
   fs.writeFileSync(path.join(root,'manifest.json'),json({schema_version:1,title,slides:[]}));
   const docs={
-    'AGENTS.md':'# 图片版PPT项目\n\n使用 image-ppt-workflow。开工读取 brief.md、outline.md、style-guide.md、manifest.json、progress.md 和 output/LATEST.json（若存在）。按整页生图、局部改图、合成PPT执行；保留提示词和原图。稳定页面id与页码分离。变更后同步PPT和预览，旧发布保留。\n',
+    'AGENTS.md':'# 图片版PPT项目\n\n使用 image-ppt。开工读取 brief.md、outline.md、style-guide.md、manifest.json、progress.md 和 output/LATEST.json（若存在）。按整页生图、局部改图、合成PPT执行；保留提示词和原图。稳定页面id与页码分离。变更后同步PPT和预览，旧发布保留。\n',
     'brief.md':`# ${title}\n\n受众：待填写\n用途：待填写\n语言：待填写\n目标页数：待填写\n素材与必须保留的文案：待填写\n`,
     'outline.md':'# 逐页大纲\n\n记录每页标题、核心信息、素材和构图要求。\n',
     'style-guide.md':'# 已确认风格\n\n记录样张路径、配色、文字层级、构图及确认状态。\n',

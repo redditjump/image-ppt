@@ -1,4 +1,4 @@
 interface:
   display_name: "图片版 PPT 制作与修改"
   short_description: "整页生图与局部改图，统一管理页面、历史版本并合成高清PPT和预览"
-  default_prompt: "使用 $image-ppt-workflow 制作或修改图片版 PPT，先读取我的素材和参考风格，保存提示词与版本并交付成稿。"
+  default_prompt: "使用 $image-ppt 制作或修改图片版 PPT，先读取我的素材和参考风格，保存提示词与版本并交付成稿。"
