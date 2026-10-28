@@ -14,6 +14,18 @@
 
 ## 图例
 
+### 下载完整五页案例
+
+**[星澜 AI 完整案例](examples/xinglan-demo/README.md)**：封面 → 业务痛点 → 核心能力 → 跟进流程 → 行动建议。
+
+- [下载高清版 PPTX](https://raw.githubusercontent.com/redditjump/image-ppt/main/examples/xinglan-demo/deck-hd.pptx)
+- [下载轻量版 PPTX](https://raw.githubusercontent.com/redditjump/image-ppt/main/examples/xinglan-demo/deck-compact.pptx)
+- 下载仓库 ZIP 后，打开 `examples/xinglan-demo/preview/index.html` 即可离线翻页。
+
+案例包含逐页图片、提示词、页面清单和封面修订记录，可直接用本仓库脚本重新构建。
+
+![五页成品 PPT 概览](examples/xinglan-demo/overview.png)
+
 以下为内置图片工具生成的虚构品牌示例，不包含真实客户信息。完整提示词见 [图例提示词](examples/prompts.md)。
 
 ### 制作流程

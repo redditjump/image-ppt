@@ -9,4 +9,6 @@ Thumbs.db
 output/
 skill-tests/
 *.pptx
+!examples/xinglan-demo/deck-hd.pptx
+!examples/xinglan-demo/deck-compact.pptx
 *.zip

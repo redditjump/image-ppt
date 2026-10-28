@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "title": "星澜 AI · 客户跟进演示",
+  "slides": [
+    {
+      "id": "cover",
+      "title": "把客户洞察，变成增长行动",
+      "image": "images/001-cover.png",
+      "prompt": "prompts/001-cover.md"
+    },
+    {
+      "id": "pain",
+      "title": "客户跟进，常卡在三个地方",
+      "image": "images/002-pain.png",
+      "prompt": "prompts/002-pain.md"
+    },
+    {
+      "id": "capabilities",
+      "title": "从客户线索，到持续跟进",
+      "image": "images/003-capabilities.png",
+      "prompt": "prompts/003-capabilities.md"
+    },
+    {
+      "id": "process",
+      "title": "让每次沟通都有下一步",
+      "image": "images/004-process.png",
+      "prompt": "prompts/004-process.md"
+    },
+    {
+      "id": "closing",
+      "title": "从一组客户开始，把跟进做扎实",
+      "image": "images/005-closing.png",
+      "prompt": "prompts/005-closing.md"
+    }
+  ]
+}
