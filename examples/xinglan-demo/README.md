@@ -30,7 +30,7 @@ node scripts/deck.cjs build --project examples/xinglan-demo --compact --version 
 
 ## 修订记录与检查
 
-封面初稿保留在 `history/cover-before.png`。标题由“让每一次跟进，更接近成交”改为“把客户洞察，变成增长行动”，实际修改提示词见 `prompts/original-examples.md`。其余页面按业务痛点、能力、流程、行动建议构成完整叙事。
+封面初稿保留在 `history/cover-before.png`。标题由“让每一次跟进，更接近成交”改为“把客户洞察，变成增长行动”，实际修改提示词见 `prompts/001-cover.md`。其余页面按业务痛点、能力、流程、行动建议构成完整叙事。
 
 五页使用内置图片工具制作并目视核对文字。蓝白配色和玻璃插画贯穿全稿；示例标识图形由生成模型绘制，各页存在差异，不作为严格品牌标识复用案例。
 
